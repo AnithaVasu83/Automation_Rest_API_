@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
+    <test verbose="5" preserve-order="true" name="Automation10xFramework">
+        <groups>
+            <run>
+                <include name = "regression"/>
+            </run>
+        </groups>
+
+        <classes>
+        <class name="org.anitha.tests.integration.Test_E2E_Flow_001">
+
+
+
+        </class>
+        </classes>
+    </test>
+</suite>

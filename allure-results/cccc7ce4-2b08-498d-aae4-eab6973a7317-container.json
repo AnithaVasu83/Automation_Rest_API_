@@ -1,0 +1,1 @@
+{"uuid":"cccc7ce4-2b08-498d-aae4-eab6973a7317","name":"org.anitha.base.BaseTest.setUp","children":["7cc58874-d573-4008-8c64-187a8790b26e"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742581649475,"stop":1742581649475}],"afters":[],"start":1742581649475,"stop":1742581649475}
