@@ -1,4 +1,4 @@
-# Automation_resr_API
+# Automation_rest_API
 
 This repository covers hands-on implementation of:
 
